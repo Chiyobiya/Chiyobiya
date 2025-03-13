@@ -22,6 +22,13 @@ Here are some ideas to get you started:
     <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="35" />
     <br/>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Audhy+Brilliant+Pratama;+A.K.A+Chiyobiya!;"/>
+    <br/>
+    <a href="https://github.com/Chiyobiya/followers">
+        <img src="https://img.shields.io/github/followers/Chiyobiya?style=social" alt="Follower Badge"/>
+    </a>
+    <a href="https://github.com/Chiyobiya/Chiyobiya/stargazers">
+        <img src="https://img.shields.io/github/stars/Chiyobiya?affiliations=OWNER&style=social" alt="Stars Badge"/>
+    </a>
 </h1>
 
 <!---------- Description ---------->
@@ -46,12 +53,19 @@ Here are some ideas to get you started:
     <a href="https://codepen.io/Audhy-Pratama">
         <img height="30px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/>
     </a>
+    <a href="https://github.com/Chiyobiya">
+        <img height="30px" alt="Github" title="LinkedIn" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+    </a>
 </p>
 
 <!---------- Skills ---------->
 
 ## 🛠️ Language and Tools:
-- ### 🖥️ Front End Devs:
+
+<details>
+<summary>
+    <h3>🖥️ Front End Devs:</h3>
+</summary>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -67,20 +81,27 @@ Here are some ideas to get you started:
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-
+</details>
 <br/>
 
-- ### 📊 ML/DL:
+<details>
+<summary>
+    <h3>📊 ML/DL:</h3>
+</summary>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+</details>
 
 <br/>
 
-- ### ⚙️ Others:
+<details>
+<summary>
+    <h3>⚙️ Others:</h3>
+</summary>
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -88,5 +109,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+</details>
 
 <br/>
+
