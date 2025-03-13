@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chiyobiya.Chiyobiya" />
 <h1 align="center">
-    <img src="https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/electro-element-genshin-impact-wiki-guide.png" width="35"/>
+    <img src="https://github.com/Chiyobiya/Chiyobiya/blob/main/Electro-logo.png" width="30"/>
     Hi there!
     <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="35" />
     <br/>
@@ -10,6 +10,7 @@
 </h1>
 
 <!-- Description -->
+<h3 align="left">Frontend Engineer specializing in frameworks like Reactjs and React Native, sometimes gets interested in Machine Learning and Artificial Intelligence. Always eager to explore innovative technologies.</h3>
 
 <!-- Base Template
 **Chiyobiya/Chiyobiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
