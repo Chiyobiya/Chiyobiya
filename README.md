@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>
-    <h3>📊 ML/DL:</h3>
+    <h3>📈 ML/DL:</h3>
 </summary>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
@@ -113,3 +113,4 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!---------- Github Stats ---------->
