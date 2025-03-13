@@ -10,7 +10,28 @@
 </h1>
 
 <!-- Description -->
-<h3 align="left">Frontend Engineer specializing in frameworks like Reactjs and React Native, sometimes gets interested in Machine Learning and Artificial Intelligence. Always eager to explore innovative technologies.</h3>
+<h3 align="left">Average Frontend Engineer specializing in frameworks like Reactjs and React Native. Sometimes gets interested in Machine Learning and Artificial Intelligence, always eager to explore innovative technologies.</h3>
+
+## 🌐 My Socials:
+
+<p align="center">
+    <a href="mailto:audhybrilliant@gmail.com">
+        <img height="30px" alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/audhybrilliantp">
+        <img height="30px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/audhypratama">
+        <img height="30px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+        </a>
+    <a href="https://stackoverflow.com/users/29970199">
+        <img height="30px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+    </a>
+    <a href="https://codepen.io/Audhy-Pratama">
+        <img height="30px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"/>
+    </a>
+</p>
+
 
 <!-- Base Template
 **Chiyobiya/Chiyobiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
