@@ -1,13 +1,13 @@
 <!-- Bagian Profil -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chiyobiya.Chiyobiya" />
-
 <h1 align="center">
-    <img src="https://www.deviantart.com/anotheraizen14/art/Genshin-Impact-Electro-862358240" width="40">
+    <img src="https://genshinimpact.wiki.fextralife.com/file/Genshin-Impact/electro-element-genshin-impact-wiki-guide.png" width=35">
     Hi there!
-    <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="40"></h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Audhy+Brilliant+Pratama;+A.K.A+Chiyobiya!;"/>
+    <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width=35"></h1>
 </h1>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Audhy+Brilliant+Pratama;+A.K.A+Chiyobiya!;"/>
 
 <!--
 **Chiyobiya/Chiyobiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
