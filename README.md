@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!---------- Description ---------->
 
-<h3 align="left">Average Frontend Engineer specializing in frameworks like Reactjs, React Native, Etc. Sometimes gets interested in Machine Learning and Artificial Intelligence, always eager to explore innovative technologies.</h3>
+<h4 align="left">Average Frontend Engineer specializing in frameworks like Reactjs, React Native, Etc. Sometimes gets interested in Machine Learning and Artificial Intelligence, always eager to explore innovative technologies.</h4>
 
 ## 🌐 My Socials:
 
