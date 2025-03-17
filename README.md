@@ -118,29 +118,29 @@ Here are some ideas to get you started:
 ## 🔬 Interested Projects:
 
 <a href="https://github.com/ruang-guru/playground">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ruang-guru&repo=playground&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Ruangguru Playground">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ruang-guru&repo=playground&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Ruangguru Playground">
 </a>
 <a href="https://github.com/deepseek-ai/DeepSeek-R1">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=deepseek-ai&repo=DeepSeek-R1&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Deepsek R1">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=deepseek-ai&repo=DeepSeek-R1&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Deepsek R1">
 </a>
 <a href="https://github.com/anthropics/claude-code">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anthropics&repo=claude-code&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Claude">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anthropics&repo=claude-code&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Claude">
 </a>
 <a href="https://github.com/microsoft/react-native-windows">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=react-native-windows&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="React Naive Windows">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=react-native-windows&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="React Naive Windows">
 </a>
 <a href="https://github.com/LionSec/katoolin">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LionSec&repo=katoolin&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Katoolin">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LionSec&repo=katoolin&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Katoolin">
 </a>
 <a href="https://github.com/NationalSecurityAgency/ghidra">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NationalSecurityAgency&repo=ghidra&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Ghidra">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NationalSecurityAgency&repo=ghidra&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Ghidra">
 </a>
 <a href="https://github.com/kevinjycui/DesmosBezierRenderer">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevinjycui&repo=DesmosBezierRenderer&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Desmos Bezier Renderer">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevinjycui&repo=DesmosBezierRenderer&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Desmos Bezier Renderer">
 </a>
 <a href="https://github.com/w-okada/voice-changer">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=w-okada&repo=voice-changer&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Voice Changer">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=w-okada&repo=voice-changer&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Voice Changer">
 </a>
 <a href="https://github.com/SilentNightSound/GI-Model-Importer">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SilentNightSound&repo=GI-Model-Importer&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Genghsin Impact Model Importer (GIMI)">
+    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SilentNightSound&repo=GI-Model-Importer&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Genghsin Impact Model Importer (GIMI)">
 </a>
