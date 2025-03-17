@@ -58,13 +58,13 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<!---------- Skills ---------->
+<!---------- Language and Tools ---------->
 
 ## 🛠️ Language and Tools:
 
 <details>
 <summary>
-    <h3>🖥️ Front End Devs:</h3>
+    <h3>🖥️ Front End Web Devs:</h3>
 </summary>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -112,5 +112,3 @@ Here are some ideas to get you started:
 </details>
 
 <br/>
-
-<!---------- Github Stats ---------->
