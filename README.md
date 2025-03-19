@@ -146,3 +146,10 @@ Here are some ideas to get you started:
         <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SilentNightSound&repo=GI-Model-Importer&theme=react&bg_color=1F222E&title_color=47b9f4&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="Genghsin Impact Model Importer (GIMI)">
     </a>
 </p>
+
+<!---------- Github Stats ---------->
+
+<!-- ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chiyobiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chiyobiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiyobiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
